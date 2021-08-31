@@ -1,4 +1,5 @@
 function [Tbl] = testWithModel(Tr,nr,nc)
+% [Tbl] = testWithModel(Tr,nr,nc)
 %run grainSizeFromAbsorption with modeled data
 %Tr is the 2nd optional output from generateLookupFunction
 

@@ -1,4 +1,5 @@
 function [solvedRadius] = testWithData(Tbl)
+% [solvedRadius] = testWithData(Tbl)
 %demo with data from spectra sent to Ann
 %call with that table
 muS = [0.67347 0.40604 0.51543 0.37078 0.77011 0.83557];
